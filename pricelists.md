@@ -4,8 +4,8 @@ title: Uppdateringar prislistor
 nav_order: 5
 ---
 
-# Uppdateringar och Changelog
-Här kan du se allt nytt som händer i systemet, från stort till smått.
+# Uppdateringar prislistor
+Här kan du följa hur vi löpande håller Kalkyldatas materialpriser uppdaterade. Vi loggar varje gång vi läser in nya prislistor från våra anslutna grossister och leverantörer.
 
 ---
 
