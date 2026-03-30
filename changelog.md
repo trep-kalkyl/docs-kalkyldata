@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Changelog
-nav_order: 5
+nav_order: 3
 ---
 
 # Uppdateringar och Changelog
