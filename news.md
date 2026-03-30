@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Changelog
+title: Nyheter
 nav_order: 1
 ---
 
