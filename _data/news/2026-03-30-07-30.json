@@ -1,0 +1,5 @@
+{
+  "date": "2026-03-30",
+  "title": "Buggfix för inloggningen",
+  "description": "Vi har åtgärdat ett problem där vissa användare blev utloggade för tidigt. Sessionstiden är nu korrigerad till 24 timmar som det var tänkt."
+}
