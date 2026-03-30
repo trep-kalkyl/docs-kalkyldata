@@ -4,17 +4,10 @@ title: Changelog
 nav_order: 5
 ---
 
-# Uppdateringar och Changelog
-Här kan du se allt nytt som händer i systemet.
+# Testar datan...
 
----
+{% for entry in site.data.changelog %}
+### Hittade fil: {{ entry[0] }}
+Titel: {{ entry[1].title }}
 
-{% assign sorted_changelog = site.data.changelog | sort | reverse %}
-
-{% for entry in sorted_changelog %}
-  {% assign data = entry[1] %}
-### {{ data.date }} – {{ data.title }}
-{{ data.description }}
-
----
 {% endfor %}
