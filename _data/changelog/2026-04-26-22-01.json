@@ -1,0 +1,5 @@
+{
+  "date": "2026-04-26",
+  "title": "Favoriter och egna recept — enklare åtkomst och tydlig ägare",
+  "description": "### 🎉 Nya funktioner\n\n- **Favoriter i chatt:** Du kan nu markera meddelanden och svar i chatt som favoriter för att snabbt hitta viktiga konversationer senare.\n- **Favoritknapp på artikelkort:** Du kan nu markera artiklar, varor eller recept som favoriter direkt från deras kort för snabb åtkomst.\n- **Eget innehåll och synlighet:** Du kan nu lägga till egna items/recept och ange om de ska vara publika eller privata, och det framgår tydligt vem som är ägare till varje post.\n\n### 🚀 Förbättringar\n\n- **Favoriter kopplade till konto:** Dina favoriter följer nu ditt konto så att de finns tillgängliga när du är inloggad.\n- **Tydligare items-scheman:** Informationen för items/recept visas nu mer konsekvent och är lättare att förstå, vilket förenklar hantering och redigering.\n\n### 🐛 Buggfixar\n\n- **Dölj favoritikon för utloggade:** Favoritstjärnan visas inte längre för användare som inte är inloggade, vilket minskar förvirring."
+}
