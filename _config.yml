@@ -11,6 +11,9 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+plugins:
+  - jekyll-sitemap
        
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
