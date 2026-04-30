@@ -2,7 +2,7 @@ title: Kalkyldata Docs
 description: Dokumentation för Kalkyldata
 theme: just-the-docs
 
-url: "https://trep-kalkyl.github.io"
+url: "https://kalkyldata.github.io"
 baseurl: "/docs-kalkyldata"
 
 defaults:
@@ -11,6 +11,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+      
 plugins:
   - jekyll-sitemap
   
