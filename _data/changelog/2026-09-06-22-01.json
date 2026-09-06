@@ -1,0 +1,5 @@
+{
+  "date": "2026-09-06",
+  "title": "Ny regelbyggare, uppdaterade UI-komponenter och bättre dokumentation",
+  "description": "### 🎉 Nya funktioner\n\n- **Visuell regelbyggare i regelredigeraren:** Gör det enklare att skapa och redigera regler med ett visuellt verktyg direkt i gränssnittet.\n- **Nya UI-komponenter för regelhantering:** Ger ett tydligare och mer konsekvent användargränssnitt när du bygger och administrerar regler.\n\n### 🚀 Förbättringar\n\n- **Dokumentation och hjälplänkar:** Visar nu en länk till relevant dokumentation i planvyn och uppdaterad användardokumentation gör det lättare att hitta instruktioner.\n- **Förbättrade mallar för regler:** Standardiserade mallar gör det snabbare att komma igång med vanliga regler och minskar risken för fel.\n- **Plan för filter och skapare:** Förberett förbättringar för hur filter och skapare hanteras, vilket lägger grunden för smidigare filtrering framöver.\n\n### 🐛 Buggfixar\n\n- **Felkorrigering i trådvisning:** Löste ett problem som ibland gjorde att kommentarer eller trådar visades felaktigt eller kopplades ihop på ett sätt som förvirrade användaren."
+}
